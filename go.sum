@@ -63,8 +63,8 @@ github.com/google/pprof v0.0.0-20230811205829-9131a7e9cc17/go.mod h1:Jh3hGz2jkYa
 github.com/hashicorp/go-bexpr v0.1.12 h1:XrdVhmwu+9iYxIUWxsGVG7NQwrhzJZ0vR6nbN5bLgrA=
 github.com/hashicorp/go-bexpr v0.1.12/go.mod h1:ACktpcSySkFNpcxWSClFrut7wicd9WzisnvHuw+g9K8=
 github.com/ianlancetaylor/demangle v0.0.0-20220319035150-800ac71e25c2/go.mod h1:aYm2/VgdVmcIU8iMfdMvDMsRAQjcfZSKFby6HOFvi/w=
-github.com/kamihama-railway/uwasa v0.0.0-20260128005441-eea6e2a2811a h1:rj8Cq8NkMdfiZXjFk5X5Sa52l0ETswC/jbVxlOF0q9w=
-github.com/kamihama-railway/uwasa v0.0.0-20260128005441-eea6e2a2811a/go.mod h1:1YN8y6c6vZUsM1T0fxdQg0Xnu0H9Rt8aVYFM6bbqbAI=
+github.com/kamihama-railway/uwasa v0.0.0-20260128213840-16d925b57827 h1:4OSxpzDG97idqTnxWg/kihshWv1meNt8bTG/Ml3StBE=
+github.com/kamihama-railway/uwasa v0.0.0-20260128213840-16d925b57827/go.mod h1:1YN8y6c6vZUsM1T0fxdQg0Xnu0H9Rt8aVYFM6bbqbAI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pretty v0.2.1/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
 github.com/kr/pretty v0.3.0/go.mod h1:640gp4NfQd8pI5XOwp5fnNeVWj67G7CFk/SaSQn7NBk=

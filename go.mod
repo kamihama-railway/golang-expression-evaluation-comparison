@@ -9,7 +9,7 @@ require (
 	github.com/dop251/goja v0.0.0-20230812105242-81d76064690d
 	github.com/google/cel-go v0.17.1
 	github.com/hashicorp/go-bexpr v0.1.12
-	github.com/kamihama-railway/uwasa v0.0.0-20260128005441-eea6e2a2811a
+	github.com/kamihama-railway/uwasa v0.0.0-20260128213840-16d925b57827
 	github.com/robertkrimen/otto v0.2.1
 	github.com/skx/evalfilter/v2 v2.1.19
 	go.starlark.net v0.0.0-20230814085126-460f143bb893
